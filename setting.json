@@ -1,0 +1,59 @@
+{
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": false,
+        "editor.tabSize": 2
+    },
+    "[ruby]": {
+        "editor.tabSize": 2,
+    },
+    "[typescript]": {
+        "editor.tabSize": 4
+    },
+    "[yaml]": {
+        "editor.tabSize": 2
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.tabSize": 4,
+    "eslint.enable": true,
+    "eslint.validate": [
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        }
+    ],
+    "extensions.ignoreRecommendations": true,
+    "files.exclude": {
+        "**/.git": false,
+        "**/.vscode": false,
+        "**/.svn": false,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true
+    },
+    "git.suggestSmartCommit": false,
+    "javascript.preferences.quoteStyle": "double",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "ruby.intellisense": "rubyLocate",
+    "ruby.useLanguageServer": true,
+    "solargraph.definitions": true,
+    "solargraph.diagnostics": true,
+    "terminal.integrated.shell.osx": "/bin/bash",
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "typescript.preferences.quoteStyle": "double",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "newUntitledFile"
+}
