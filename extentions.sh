@@ -1,0 +1,15 @@
+code --install-extension aeschli.vscode-css-formatter
+code --install-extension castwide.solargraph
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension eamodio.gitlens
+code --install-extension joelday.docthis
+code --install-extension justusadam.language-haskell
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension MS-CEINTL.vscode-language-pack-ja
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension msjsdiag.debugger-for-chrome
+code --install-extension oderwat.indent-rainbow
+code --install-extension rebornix.ruby
+code --install-extension SimonSiefke.svg-preview
+code --install-extension sohamkamani.code-eol
+code --install-extension wingrunr21.vscode-ruby
